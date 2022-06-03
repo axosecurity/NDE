@@ -98,8 +98,6 @@ docker
 
 
 
-<img src='https://raw.githubusercontent.com/axosecurity/NDE/main/Screenshot%20from%202022-06-03%2007-21-50.png' >
-
 
 
 
