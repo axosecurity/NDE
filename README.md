@@ -87,6 +87,36 @@ docker
 <img src='https://github.com/axosecurity/NDE/blob/main/docker.png?raw=true'>
 
 
+# what is Kubernetes 
+
+<img src='https://github.com/axosecurity/NDE/blob/main/kuberanites.png?raw=true'>
+
+
+# Docker security Threats 
+
+<img src='https://github.com/axosecurity/NDE/blob/main/docker%20security%20.png?raw=true'>
+
+#Kubernetes security challenges and threats
+
+<img src='https://github.com/axosecurity/NDE/blob/main/kubernetis%20security.png?raw=true'>
+
+
+
+# CONTAINER SECURITY CHALLENGES 
+
+<img scr='https://github.com/axosecurity/NDE/blob/main/container%20security.png?raw=true'>
+
+# CONTAINER SECURIYT THREATS 
+
+<img src='https://github.com/axosecurity/NDE/blob/main/container%20security%20thread.png?raw=true'>
+
+
+
+# CONTAINER SECURITY CONTD
+
+<img src='https://github.com/axosecurity/NDE/blob/main/container%20security%20con.png?raw=true'>
+
+
 
 
 
