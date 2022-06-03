@@ -42,9 +42,7 @@ Modulers{
 
 What we will learn ? 
 	#img links
-	
-https://raw.githubusercontent.com/axosecurity/NDE/main/Screenshot%20from%202022-06-03%2007-21-50.png
-
+<img src='https://raw.githubusercontent.com/axosecurity/NDE/main/Screenshot%20from%202022-06-03%2007-21-50.png'>
 
 ----------------------------------------------------------------------------------------------------------
 ////////////////////// virtualization and cloud computing \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -53,9 +51,7 @@ https://raw.githubusercontent.com/axosecurity/NDE/main/Screenshot%20from%202022-
 Module Objective 
 
 	# IMG 
-	
-https://github.com/axosecurity/NDE/blob/main/Screenshot%20from%202022-06-03%2007-35-31.png?raw=true
-
+<img src='https://github.com/axosecurity/NDE/blob/main/Screenshot%20from%202022-06-03%2007-35-31.png?raw=true'>
 
 
 	virtualization -------------------
@@ -63,35 +59,32 @@ https://github.com/axosecurity/NDE/blob/main/Screenshot%20from%202022-06-03%2007
 
 #   what is virtualization 
 
- img = https://github.com/axosecurity/NDE/blob/main/virtualization_NDE.png?raw=true
+ img = 
  
+ <img src='https://github.com/axosecurity/NDE/blob/main/virtualization_NDE.png?raw=true'>
+
 type of virtualization
 
-https://github.com/axosecurity/NDE/blob/main/type%20of%20virtualization%20.png?raw=true
+<img src='https://github.com/axosecurity/NDE/blob/main/type%20of%20virtualization%20.png?raw=true'>
 
 virtualization component
 
-https://github.com/axosecurity/NDE/blob/main/virtualization_components.png?raw=true
-
+<img src='https://github.com/axosecurity/NDE/blob/main/virtualization_components.png?raw=true'>
 
 #	Container -------------------
 
 what is container
-	
-https://github.com/axosecurity/NDE/blob/main/containers%20.png?raw=true
 
+<img src='https://github.com/axosecurity/NDE/blob/main/containers%20.png?raw=true'>
 type of container 
-
-https://github.com/axosecurity/NDE/blob/main/type%20of%20Containers%20.png?raw=true
+<img src='https://github.com/axosecurity/NDE/blob/main/type%20of%20Containers%20.png?raw=true'>
 
 containers vs virtualization
-
-https://github.com/axosecurity/NDE/blob/main/Container%20vs%20virtualization.png?raw=true
+<img src='https://github.com/axosecurity/NDE/blob/main/Container%20vs%20virtualization.png?raw=true'>
 
 docker 
 
-https://github.com/axosecurity/NDE/blob/main/docker.png?raw=true
-
+<img src='https://github.com/axosecurity/NDE/blob/main/docker.png?raw=true'>
 
 
 
